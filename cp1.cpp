@@ -3,6 +3,7 @@ using namespace std;
 int main()
 {
     cout<<"aman"<<endl;
+    cout<<"Dinbandhu"<<endl;
     int a=9;
     if(a==9)
     {
